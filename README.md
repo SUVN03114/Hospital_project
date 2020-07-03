@@ -1,4 +1,4 @@
-# Hospital-LIve-beds-avilablity-Counter
+# Hospital-Live-beds-avilablity-Counter
 
 ![Project Image](project-image-url)
 
