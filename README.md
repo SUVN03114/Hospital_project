@@ -58,7 +58,7 @@ first of all make a database whose name = hospitals_json and in that database cr
 
 #### API Reference
 
-[API here](#https://api.rootnet.in/covid19-in/hospitals/medical-colleges)
+[API](#https://api.rootnet.in/covid19-in/hospitals/medical-colleges)
 
 
 
