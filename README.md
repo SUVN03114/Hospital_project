@@ -97,7 +97,7 @@ SOFTWARE.
 
 ## Author Info
 
-- LinkedIn - [@Ujjwal_3009](https://linkedin.com/ujjwal-kumar3009)
+- LinkedIn - [@Ujjwal_3009](https://linkedin.com/in/ujjwal-kumar3009)
 
 
 
