@@ -60,17 +60,6 @@ first of all make a database whose name = hospitals_json and in that database cr
 
 https://api.rootnet.in/covid19-in/hospitals/medical-colleges
 
-
-
-[Back To The Top]((#Hospital-LIve-beds-avilablity-Counter)
-
----
-
-## References
-[Back To The Top]((#Hospital-LIve-beds-avilablity-Counter)
-
----
-
 ## License
 
 MIT License
@@ -99,10 +88,16 @@ SOFTWARE.
 [Back To The Top](#Hospital-LIve-beds-avilablity-Counter)
 
 ---
+## OUR TEAM
+- Ujjwal Kumar -  [@Ujjwal_3009](https://ujjwalportfolio.blogspot.com/)
+- Vivek Pandey -  [@vivek-pandey01](https://linkedin.com/vivek-pandey01)
+- Shreya Bansal - [@shreya-bansal99](https://linkedin.com/shreya-bansal99)
+- Nidhi Sisodiya -  [@](https://linkedin.com/)
+
 
 ## Author Info
 
 - LinkedIn - [@Ujjwal_3009](https://linkedin.com/ujjwal-kumar3009)
 
 
-[Back To The Top]((#Hospital-LIve-beds-avilablity-Counter)
+
