@@ -90,8 +90,8 @@ SOFTWARE.
 ---
 ## OUR TEAM
 - Ujjwal Kumar -  [@Ujjwal_3009](https://ujjwalportfolio.blogspot.com/)
-- Vivek Pandey -  [@vivek-pandey01](https://linkedin.com/vivek-pandey01)
-- Shreya Bansal - [@shreya-bansal99](https://linkedin.com/shreya-bansal99)
+- Vivek Pandey -  [@vivek-pandey01](https://linkedin.com/in/vivek-pandey01)
+- Shreya Bansal - [@shreya-bansal99](https://linkedin.com/in/shreya-bansal99)
 - Nidhi Sisodiya -  [@](https://linkedin.com/)
 
 
