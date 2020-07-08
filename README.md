@@ -42,17 +42,17 @@ COVID_19 is a huge challenge for Humans and we as a Developer have a responsibil
 
 ---
 
-## How To Use
+## DEPLOYMENT
+DEPLOYEMENT ON LOACL PC
+- Copy all the given files in a floder name this folder as youwant
+- Copy this folder you created to the htdocs folder in your Xampp folder in C: Drive
+- Open XAMPP and START the first two options
+- Open a web Browser and type localhost/your folder
+- Now open another tab and type localhost/phpmyadmin
+- Import database file present in your downloaded folder into sql
+- There goes you website
 
-first of all make a database whose name = hospitals_json and in that database create a table name = data which will have 5 columns "id , name ,city, hospitalBeds , admissionCapacity " in phpmyAdmin.
 
-- We have provide already connection object to connect through database .
-- In case of Customizing . you can change there. 
-
-#### Installation
-
-
-- Will Update Soon
 
 
 
